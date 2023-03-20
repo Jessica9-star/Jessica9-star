@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Jessica9-star">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessica9-star&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica9-star&theme=buefy&layout=compact" />
 </a>
 
 <br/>
